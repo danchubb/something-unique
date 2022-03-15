@@ -19,4 +19,4 @@ jobs:
         run: |
           black ./ --check
           flake8
-          mypy somthing_unique
+          mypy somthing-unique
